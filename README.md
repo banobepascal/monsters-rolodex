@@ -1,7 +1,4 @@
-
-
-
-# monsters-rolodex
+# Monsters-rolodex
 
 A react app that displays cards with monsters
 
